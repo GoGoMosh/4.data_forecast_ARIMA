@@ -8,7 +8,7 @@
 <p align='center'>
 	<img src='https://img.shields.io/badge/Language-python-blue'> 
 <p align='center'>
-	<img src='https://img.shields.io/badge/Package-numpy%2C%20matplotlib%2C%20pandas%2C%20statsmodels%2C%20scikit-learn-blueviolet'> 
+	<img src='https://img.shields.io/badge/Package-numpy%2C%20matplotlib%2C%20pandas%2C%20statsmodels%2C%20scikit_learn-blueviolet'> 
 </p>
 
 
